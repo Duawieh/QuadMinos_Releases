@@ -1,4 +1,4 @@
-<div float="left"><img src="/ReadMeFiles/Title.png" alt="Quad Minos!" style="width: 45%;"/><img src="/ReadMeFiles/MainPreview.gif" alt="Quad Minos! _GIF" style="width: 45%;"/></div>
+<div float="left"><img src="/ReadMeFiles/Title.png" alt="Quad Minos!" style="width: 33%;"/><img src="/ReadMeFiles/MainPreview.gif" alt="Quad Minos! _GIF" style="width: 33%;"/></div>
 
 <h4 align="center"> :lock: 本项目作为练习项目仅供交流学习使用，严禁用于任何商业用途！ :lock: </h4>
 
